@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="219e2163-abed-4155-803e-ae2e11f08dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session 3/4 Econ Lab.py" afterDir="false" />
+    <list default="true" id="219e2163-abed-4155-803e-ae2e11f08dd9" name="Changes" comment="ds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session 7-8" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session 7-8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../session 11-12" beforeDir="false" afterPath="$PROJECT_DIR$/../../session 11-12" afterDir="false" />
     </list>
@@ -63,5 +57,9 @@
       <updated>1711102036758</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ds" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds" />
   </component>
 </project>
